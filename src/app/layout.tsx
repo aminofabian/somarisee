@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Spectral } from 'next/font/google'
+import { Raleway } from 'next/font/google'
 import "./globals.css";
 
-const inter = Spectral({
+const inter = Raleway({
   weight: ['400', '700'],
   style: ['normal', 'italic'],
   subsets: ['latin'],

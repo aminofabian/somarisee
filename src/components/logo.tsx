@@ -6,10 +6,10 @@ const Logo = () => {
     <div>
     
     <Image
-    src="/logo.svg"
+    src="/logo.png"
     alt="Logo"
-    width={150}
-    height={100}
+    width={100}
+    height={50}
     />
     
     </div>
