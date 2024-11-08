@@ -15,7 +15,6 @@ const HomePage = () => {
     
     <HeroSection />
     
-    
     <Dashboard />
     
     <TrustedBySection />

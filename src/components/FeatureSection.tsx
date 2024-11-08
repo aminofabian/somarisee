@@ -26,7 +26,7 @@ const FeatureSection = () => {
     <span className="inline-block px-4 py-1 text-sm font-medium text-gray-700 bg-gray-200 rounded-full">
     Additional Features
     </span>
-    <h1 className="mt-4 text-4xl font-bold text-gray-900">All-in-One School Management Platform</h1>
+    <h1 className="mt-4 text-4xl font-bold text-gray-900">All-in-One School Management Platform...</h1>
     <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
     Streamline your entire school operations with our comprehensive suite of integrated modules designed specifically for modern educational institutions.
     </p>
