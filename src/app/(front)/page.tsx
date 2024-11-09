@@ -10,20 +10,14 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>
+    <div className='container mx-auto px-4 py-8 rounded-lg bg-grey-100'>
     <SiteHeader />
-    
     <HeroSection />
-    
     <Dashboard />
-    
     <TrustedBySection />
-    
     <FeatureSection />
     <LatestNews />
-    
     <PricingSection />
-    
     <Footer />
     </div>
   )
